@@ -13,12 +13,12 @@
 Результатом работы программы будет файл "output.txt"
 
 В ходе работы программы действуют следующие функции:
-	**FindWord
-	GetWord
-	chopWord
-	putIn
-	detectWord
-	detectLetter**
+- **FindWord**
+- **GetWord**
+- **chopWord**
+- **putIn**
+- **detectWord**
+- **detectLetter**
 
 ---
 
